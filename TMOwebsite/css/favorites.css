@@ -1,0 +1,105 @@
+body {
+    margin: 0px;
+    height: 0px;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    background-color: goldenrod;
+    padding: 4px;
+}
+
+.welcome {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+#fav p1 {
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    left: 20px;
+    position: relative;
+}
+
+.digit {
+    display: block;
+    padding: 10px;
+    list-style: none;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    left: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+.digit li {
+    display: block;
+    margin-right: 900px;
+    list-style: none;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    left: -10px;
+    font-weight: 500;
+    position: relative;
+}
+
+#orders p1 {
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    left: 20px;
+    position: relative;
+}
+
+.eating li {
+    display: block;
+    margin-right: 900px;
+    list-style: none;
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    left: 20px;
+    font-weight: 500;
+    position: relative;
+}
+
+.hearts1 {
+    position: relative;
+    width: 25%;
+    top: -145px;
+    left: 280px;
+}
+
+.hearts1 li {
+    position: relative;
+    list-style: none;
+    left: 20px;
+}
+
+.hearts1 img {
+    margin-top: -595px;
+    width: 55%;
+}
+
+.hearts2 {
+    position: relative;
+    width: 25%;
+    top: -75px;
+    left: 280px;
+}
+
+.hearts2 li {
+    position: relative;
+    list-style: none;
+    left: 20px;
+}
+
+.hearts2 img {
+    margin-top: -595px;
+    width: 55%;
+}

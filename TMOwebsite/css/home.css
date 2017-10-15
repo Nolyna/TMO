@@ -1,0 +1,42 @@
+body {
+    margin: 0px;
+    height: 0px;
+    margin: 0px;
+}
+
+nav {
+    background-color: goldenrod;
+    padding: 4px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500px;
+    text-decoration: none;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+card {
+    max-width: 200px;
+}
+
+.welcome {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.gallery a {
+    text-decoration: none;
+    color: black;
+}
+
+.desc {
+    padding: 15px;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}

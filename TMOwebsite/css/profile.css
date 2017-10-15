@@ -1,0 +1,116 @@
+body {
+    margin: 0px;
+    height: 0px;
+    margin: 0px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.Name a {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500px;
+    text-decoration: none;
+    color: black;
+}
+
+.welcome a {
+    position: relative;
+    width: 10%;
+    left: 1119px;
+    text-decoration: none;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.img-circular {
+    width: 300px;
+    height: 300px;
+    background-image: url(profile%20pic.jpg);
+    background-size: cover;
+    display: block;
+    border-radius: 600px;
+    position: relative;
+    left: 40%;
+}
+
+.prof {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    position: relative;
+    width: 15%;
+    text-align: center;
+    left: 43%;
+}
+
+.name {
+    position: relative;
+    left: 44%;
+    width: 15%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.descrip {
+    width: 30%;
+    position: relative;
+    left: 37%;
+    word-spacing: .2em;
+    line-height: 1.8em;
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.areas {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+    text-align: center;
+    width: 200px;
+    position: relative;
+    left: 45%;
+}
+
+.areas p1 {
+    letter-spacing: .3em;
+    position: relative;
+    left: 5%
+}
+
+.areas p2 {
+    letter-spacing: .3em;
+    position: relative;
+    left: 5%
+}
+
+.button1 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+    top: 40px;
+    left: 35%;
+}
+
+.button2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    position: relative;
+    top: 40px;
+    left: 50%;
+}

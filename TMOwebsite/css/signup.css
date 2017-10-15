@@ -1,0 +1,75 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+nav {
+    background-color: goldenrod;
+    padding: 4px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.content {
+    padding-top: 4em;
+}
+
+.Name {
+    display: inline-block;
+    text-align: center;
+    position: relative;
+    left: 600px;
+    font-size: 30px;
+    top: -457px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500px;
+}
+
+.Name a {
+    text-decoration: none;
+    color: black;
+}
+
+.Getin,
+.h2 {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300px;
+    font-size: 30px;
+}
+
+.SignUp {
+    display: inline;
+    position: relative;
+    right: 200px;
+    top: 80px;
+}
+
+.SignUp img {
+    width: 50%;
+    margin: 30px;
+}
+
+.captiontext {
+    position: relative;
+    width: 45%;
+    padding: 400px;
+    margin: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 100px;
+    top: -250px;
+    left: 170px;
+    text-align: center;
+    color: white;
+    padding: 1.5px;
+    background: rgba(0, 0, 0, 0.6);
+}
+
+.info {
+    font-size: 15px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}

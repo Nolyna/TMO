@@ -1,0 +1,81 @@
+body {
+    margin: 0px;
+    height: 0px;
+    margin: 0px;
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+    background-color: goldenrod;
+    padding: 4px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500px;
+    text-decoration: none;
+    color: black;
+}
+
+card {
+    max-height: 400px;
+}
+
+.welcome {
+    color: black;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.TitleoD {
+    position: relative;
+    width: 27%;
+    left: 525px;
+    text-align: center;
+}
+
+.Description {
+    word-spacing: .25em;
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+.icon1 {
+    width: 100%;
+}
+
+.icon1 img {
+    width: 20%;
+    position: relative;
+    left: 94%;
+    display: block;
+    margin: -350px;
+    top: 12px;
+}
+
+.icon2 img {
+    width: 25%;
+    position: relative;
+    left: 92%;
+    margin: -300px;
+    top: 85px;
+}
+
+.write {
+    position: relative;
+    width: 25%;
+    font-family: 'Raleway', sans-serif;
+    display: block;
+    left: 15%;
+    top: 150px;
+}
+
+.share {
+    position: relative;
+    top: 170px;
+    left: 15%;
+}
